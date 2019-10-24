@@ -28,6 +28,10 @@
         "source": "/Users/nrohmen/Downloads/LearnCompose/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/nrohmen/Downloads/LearnCompose/app/build/intermediates/res/merged/debug/drawable_android.png.flat",
+        "source": "/Users/nrohmen/Downloads/LearnCompose/app/src/main/res/drawable/android.png"
+    },
+    {
         "merged": "/Users/nrohmen/Downloads/LearnCompose/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
         "source": "/Users/nrohmen/Downloads/LearnCompose/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
